@@ -1,0 +1,3 @@
+    pip install -U pytestIn [1]: import sys
+        !{sys.executable} --version
+Python 3.6.3
